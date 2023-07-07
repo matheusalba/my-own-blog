@@ -1,6 +1,6 @@
 import './style.css'
-import './public/kotlin-rest.png'
-import './public/summary.png'
+import '/kotlin-rest.png'
+import '/summary.png'
 
 function generatedHeader(){
 const header = document.querySelector('[data-js="header"]')
