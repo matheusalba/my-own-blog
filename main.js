@@ -44,7 +44,7 @@ function generatedMenu(){
 function generatedPanel(){
   const panel = document.querySelector('[data-js="panel"]')
   panel.className = 'panel'
-  const postOne = generatedContainer('./public/kotlin-rest.png',
+  const postOne = generatedContainer("./public/kotlin-rest.png",
   "https://github.com/matheusalba/back-kotlin-crud",
   'Crud com Kotlin',
   'Repositório Github'
