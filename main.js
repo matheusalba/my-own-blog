@@ -12,7 +12,7 @@ header.className = 'header'
 title.className = 'title'
 subTitle.className = 'subTitle'
 
-title.textContent = 'My Own Blog'
+title.textContent = 'My Own Blog teste'
 subTitle.textContent = 'Feito com Javascript Puro, HTML e CSS'
 }
 
