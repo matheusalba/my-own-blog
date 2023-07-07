@@ -44,14 +44,14 @@ function generatedMenu(){
 function generatedPanel(){
   const panel = document.querySelector('[data-js="panel"]')
   panel.className = 'panel'
-  const postOne = generatedContainer('../public/kotlin-rest.png',
+  const postOne = generatedContainer('./public/kotlin-rest.png',
   "https://github.com/matheusalba/back-kotlin-crud",
   'Crud com Kotlin',
   'Repositório Github'
   )
 
   const postTwo = generatedContainer(
-    '../public/summary.png',
+    './public/summary.png',
     "https://score-summary-front-matheusalba.vercel.app/",
      "Desafio do Front-End Mentor(HTML/CSS)",
     'Link deploy na Vercel' 
