@@ -52,9 +52,9 @@ function generatedPanel(){
  
   const postTwo = generatedContainer(
     'summary.png',
-    "https://score-summary-front-matheusalba.vercel.app/",
+    "https://github.com/matheusalba/score-summary-front",
      "Desafio do Front-End Mentor(HTML/CSS)",
-    'Link deploy na Vercel' 
+    'Github' 
   )
 
   panel.appendChild(postOne)
